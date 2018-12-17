@@ -1,0 +1,5 @@
+Instruction:
+- Run filter:
+	+ Open particle_filter.m to run particle filter
+	+ Open extenden_kalman_filter.m to run EKF
+(Not recommend openning other files except these above)
